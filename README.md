@@ -10,6 +10,7 @@ Tamamen Jetpack Compose kullanılarak oluşturulmuş bir tetris oyunu, uygulama 
 -Oyun sesi ve saat
  
 #MIV Architecture
+
 ![image](https://user-images.githubusercontent.com/84204790/225746652-091fa58d-c38b-4741-8bce-a9526eb7802d.png)
 
 #Ekran Görüntüleri
