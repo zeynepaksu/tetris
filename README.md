@@ -14,4 +14,10 @@ Tamamen Jetpack Compose kullanılarak oluşturulmuş bir tetris oyunu, uygulama 
 ![image](https://user-images.githubusercontent.com/84204790/225746652-091fa58d-c38b-4741-8bce-a9526eb7802d.png)
 
 #Ekran Görüntüleri
+
+
+
+https://user-images.githubusercontent.com/84204790/225748987-7694bb99-d7d1-4349-823a-114f12827911.mp4
+
+
 ![image](https://user-images.githubusercontent.com/84204790/225747936-12e9e4bc-bf73-4951-a8a6-1d036506343d.png)
